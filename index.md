@@ -1,5 +1,10 @@
+# Morenzo's First CS193 Homework
+
+- Images in presentation slides make the class more interesting
+- The intructors seem friendly 
+- There's not that much workload for the course 
+
 ## Welcome to GitHub Pages
-alkdjnfalkjsdnf
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
